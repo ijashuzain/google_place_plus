@@ -2,7 +2,7 @@
 
 ## Discontinued
 
-### This project is no longer maintained, and will not receive further updates.
+### This project is a a _plus version of old google_place package.
 
 
 

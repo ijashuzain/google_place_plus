@@ -1,4 +1,4 @@
-import 'package:google_place_plus/google_place.dart';
+import 'package:google_place_plus/google_place_plus.dart';
 import 'package:google_place_plus/src/details/details_response.dart';
 import 'package:google_place_plus/src/utils/network_utility.dart';
 
